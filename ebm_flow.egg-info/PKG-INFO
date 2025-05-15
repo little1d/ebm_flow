@@ -1,0 +1,9 @@
+Metadata-Version: 2.4
+Name: ebm-flow
+Version: 0.1.0
+Summary: Add your description here
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown
+Requires-Dist: numpy>=2.2.5
+Requires-Dist: pytorch-lightning>=2.5.1.post0
+Requires-Dist: seaborn>=0.13.2
