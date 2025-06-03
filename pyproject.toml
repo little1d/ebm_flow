@@ -5,7 +5,8 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.10"
 dependencies = [
-    "numpy>=2.2.5",
+    "f5-tts==1.1.4",
+    "numpy>=1.26.4",
     "pytorch-lightning>=2.5.1.post0",
     "seaborn>=0.13.2",
     "tabulate>=0.9.0",
